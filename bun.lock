@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "expo-app",
+      "name": "NutrICU",
       "dependencies": {
         "@expo/vector-icons": "^14.1.0",
         "@hono/trpc-server": "^0.3.4",
